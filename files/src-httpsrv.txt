@@ -1,0 +1,26 @@
+##
+Apache 2.4.26
+wget -O httpd.tar.gz https://archive.apache.org/dist/httpd/httpd-2.4.26.tar.gz
+
+APR 1.5.2
+wget -O apr.tar.gz http://archive.apache.org/dist/apr/apr-1.5.2.tar.gz
+
+APR-UTIL 1.5.4
+wget -O apr-util.tar.gz http://archive.apache.org/dist/apr/apr-util-1.5.4.tar.gz
+
+PHP 7.1.6
+wget -O php.tar.gz http://us.php.net/get/php-7.1.6.tar.gz/from/this/mirror
+
+MySQL
+Ubuntu: wget https://repo.mysql.com/mysql-apt-config_0.8.6-1_all.deb
+CentOS7: wget https://repo.mysql.com/mysql57-community-release-el7-10.noarch.rpm
+CentOS6: wget https://repo.mysql.com/mysql57-community-release-el6-10.noarch.rpm
+
+Archive download sites:
+APR: http://archive.apache.org/dist/apr
+APACHE: https://archive.apache.org/dist/httpd
+MySQL: https://repo.mysql.com
+
+--------------------------------------------------------------------
+How to Update phpMyAdmin By Melanie Hedgespeth
+URL: https://www.ostraining.com/blog/coding/update-phpmyadmin
