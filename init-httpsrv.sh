@@ -1,6 +1,14 @@
 #!/bin/sh
-# Date: 2017-09-09
+# Date: 2018-06-02
 # Author: www.leemann.se/fredrik - www.youtube.com/user/FreLee54
+##
+# WebPage: http://www.leemann.se/fredrik
+# Donate: https://www.paypal.me/freddan88
+# GitHub: https://github.com/freddan88/httpsrv-linux
+##
+# Tutorial: http://www.leemann.se/fredrik/tutorials/project-httpsrv-v2-deb-rpm-based-linux
+# Httpsrv Video: https://www.youtube.com/watch?v=MNd9_oKGK9I
+# Chroot Video: https://www.youtube.com/watch?v=edp476SotZ8
 ##
 ### BEGIN INIT INFO
 # Provides:          httpsrv
@@ -11,9 +19,11 @@
 # Short-Description: httpsrv
 # Description:       httpsrv - httpd (apache2) & php By: www.leemann.se/fredrik
 ### END INIT INFO
-## Links:
-## How to LSBize an Init Script: https://wiki.debian.org/LSBInitScripts
-## Insserv: https://help.directadmin.com/item.php?id=379
+##
+### LINKS:
+# How to LSBize an Init Script: https://wiki.debian.org/LSBInitScripts
+# Insserv: https://help.directadmin.com/item.php?id=379
+##
 ## Configuration:
 ROOT=/srv/httpsrv
 ##

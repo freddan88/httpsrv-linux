@@ -1,6 +1,15 @@
 #!/bin/sh
-## Date: 2017-10-30
-## Author: www.leemann.se/fredrik - www.youtube.com/user/FreLee54
+# Date: 2018-06-02
+# Author: www.leemann.se/fredrik - www.youtube.com/user/FreLee54
+##
+# WebPage: http://www.leemann.se/fredrik
+# Donate: https://www.paypal.me/freddan88
+# GitHub: https://github.com/freddan88/httpsrv-linux
+##
+# Tutorial: http://www.leemann.se/fredrik/tutorials/project-httpsrv-v2-deb-rpm-based-linux
+# Httpsrv Video: https://www.youtube.com/watch?v=MNd9_oKGK9I
+# Chroot Video: https://www.youtube.com/watch?v=edp476SotZ8
+##
 ## Configuration:
 
 root_user=root
