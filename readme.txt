@@ -1,7 +1,22 @@
-﻿I take no responsibility for this script, use at your own risk
+Links:
+------
+WebPage: http://www.leemann.se/fredrik
+Donate: https://www.paypal.me/freddan88
+GitHub: https://github.com/freddan88/httpsrv-linux
+
+Tutorial: http://www.leemann.se/fredrik/tutorials/project-httpsrv-v2-deb-rpm-based-linux
+Httpsrv Video: https://www.youtube.com/watch?v=MNd9_oKGK9I
+Chroot Video: https://www.youtube.com/watch?v=edp476SotZ8
+
+Description:
+------------
+Easy to use script to compile and install Apache2 and PHP7 from Source
+This script will also help you manage the service, stare/stop/restart etc.
+
+I take no responsibility for this script, use at your own risk
 Security and bugs shall be reported to apache php or mysql
 This script is only tested with softwareversions found in httpsrv.sh
-The script is only tested with: CentOS6, CentOS7 and Ubuntu Linux
+The script is only tested with: CentOS6, CentOS7 and Ubuntu 16.04 Linux
 
 -----------------------------------------------------------------------------
 
