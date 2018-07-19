@@ -6,6 +6,8 @@ YouTube: https://www.youtube.com/user/FreLee54
 GitHub: https://github.com/freddan88/httpsrv-linux
 
 Tutorial: http://www.leemann.se/fredrik/tutorials/project-httpsrv-v2-deb-rpm-based-linux
+Download: http://www.leemann.se/fredrik/file_downloads/httpsrv_linux-server_2.0.zip
+
 Httpsrv Video: https://www.youtube.com/watch?v=MNd9_oKGK9I
 Chroot Video: https://www.youtube.com/watch?v=edp476SotZ8
 
