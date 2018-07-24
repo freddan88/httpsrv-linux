@@ -166,8 +166,7 @@ echo " "
 		mv $root_folder/tmp/src/build/httpd/srclib/apr-util-* $root_folder/tmp/src/build/httpd/srclib/apr-util
 ####
 	cd $root_folder/tmp/src/build/httpd
-	./configure --prefix=$root_folder --with-included-apr --enable-so --enable-ssl
-
+	./configure --prefix=$root_folder --with-included-apr --enable-so --enable-ssl --enable-mpms-shared=all --enable-mods-shared=all
 echo " "
 	rm -f $root_folder/tmp/src/*.tar.gz
 	echo "Run 'web_make' to compile and install apache"
