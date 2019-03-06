@@ -21,7 +21,11 @@ Security and bugs shall be reported to apache php or mysql
 This script is only tested with softwareversions found in httpsrv.sh
 The script is only tested with: CentOS6, CentOS7 and Ubuntu 16.04 Linux
 
------------------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+License MIT: https://choosealicense.com/licenses/mit
+
+----------------------------------------------------
 
 1. Install dependencies and other software (Copy and paste one line at a time)
 
