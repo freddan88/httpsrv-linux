@@ -11,6 +11,9 @@ Download: http://www.leemann.se/fredrik/file_downloads/httpsrv_linux-server_2.0.
 Httpsrv Video: https://www.youtube.com/watch?v=MNd9_oKGK9I
 Chroot Video: https://www.youtube.com/watch?v=edp476SotZ8
 
+Playlist HTTPSRV - YouTube
+https://www.youtube.com/playlist?list=PLgwpw8nEhjkVOyV85CF6TuXmpTEfd_Dhi
+
 Description:
 ------------
 Easy to use script to compile and install Apache2 and PHP7 from Source
